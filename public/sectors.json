@@ -1,0 +1,37 @@
+[
+    {
+        "id":1,
+        "name":"Manufacturing",
+        "value":[
+            {"title":"Construction Materials","subValue":[]},
+             {"title":"Electronics and Optics","subValue":[]},
+              {"title":"Food and Beverage","subValue":["Bakery & confectionary products", "Beverages", "Fish & fish products", "Meat & meat products", "Milk & dairy products", "Other", "Sweets & snack food", ""]},
+              {"title":"Furniture","subValue":["Bathroom/sauna", "Bedroom","Childrens room", "Kitchen", "Living room", "Office", "Other (Furniture)", "Outdoor", "Project Furniture"]},
+              {"title":"Machinery","subValue":["Machinery components","Machinery equipment/tools","Manufacture of Machinery",{"subName":"Maritime","supValue":["Aluminium and still workboats","Boat/Yacht building","ship repair and conversion"]},"Metal Structures","Other","Repair and maintenance service"]},
+              {"title":"Metalworking","subValue":["Construction of metal Structures", "House and buildings","Metal Products", {"subName":"Metal works","supValue":["CNC-machining","Forgings, Fasterners","Gas, plasma, laser cutting","Mig, Tig, Aluminium welding"]}]},
+              {"title":"Plastic and Rubber","subValue":["Packaging","Plastic goods", {"subName":"Plastic processing technology","supValue":["Blowing", "Moulding", "Plastics welding and processing"]},"Plastic profiles"]},
+              {"title":"Printing","subValue":["Advertising","Book/Periodicals Printing","Labelling and Packaging printing"]},
+              {"title":"Textile and clothing","subValue":["Clothing", "Textile"]},
+              {"title":"Wood","subValue":["Other (wood)", "Wooden building materials", "Wooden houses"]}
+        ]
+    },
+    {
+        "id":2,
+        "name":"Other",
+        "value":[
+            {"title":"Creative industries","subValue":[]},{"title":"Energy technology","subValue":[]},{"title":"Environment","subValue":[]}
+        ]
+    },
+    {
+        "id":3,
+        "name":"Service",
+        "value":[
+            {"title":"Business services","subValue":[]},
+            {"title":"Engineering","subValue":[]},
+            {"title":"Informetion technology and telecommunication","subValue":["Data processing, web portals, E-marketing","Programming, consultancy","Software, Hardware","Telecommunications"]},
+            {"title":"Tourism","subValue":[]},
+            {"title":"Translation services","subValue":[]},
+            {"title":"Transports and logistics","subValue":["Air","Rail","Road","Water"]}
+        ]
+    }
+]
